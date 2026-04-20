@@ -21,7 +21,7 @@ Quais categorias de produtos ou estados trazem o maior volume financeiro e como 
 
 ## 📊 KPIs Analisados
 
-### 💰 Receita (Responsável: Carlos)
+### 💰 Receita (Responsável: Evellyn)
 
 * Volume Bruto de Mercadorias (GMV)
 * Ticket Médio
