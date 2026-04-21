@@ -21,7 +21,7 @@ Quais categorias de produtos ou estados trazem o maior volume financeiro e como 
 
 ## 📊 KPIs Analisados
 
-### 💰 Receita (Responsável: Evellyn)
+### 💰 Receita (Responsável: Evellyn, Carlos)
 
 * Volume Bruto de Mercadorias (GMV)
 * Ticket Médio
@@ -45,7 +45,7 @@ Quais categorias de produtos ou estados trazem o maior volume financeiro e como 
 
 ---
 
-### ⭐ Satisfação do Cliente (Responsável: Maycon)
+### ⭐ Satisfação do Cliente (Responsável: Maycon, Carlos)
 
 * Correlação entre atraso e Review Score
 * Nota Média ao Longo do Tempo
